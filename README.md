@@ -3,8 +3,15 @@
 
 <h3 align="center">Hi I am Ameya, i am currently trying to excel in PowerBI,SQL and Business Intelligence</h3>
 
-<a href="mailto:ameyak16995@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="ameyak16995@gmail.com" height="20" width="80" /></a>
-<a href="https://www.linkedin.com/in/ameya1ms" target="blank"><img align="center" src="https://img.shields.io/badge/-AmeyaKulkarni-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ameya1ms//" alt="AmeyaKulkarni" height="20" width="100" /></a>
+<a href="mailto:ameyak16995@gmail.com">
+    <img align="left" alt="Ameya K. | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+ </a>
+
+<a href="https://in.linkedin.com/in/ameya1ms">
+    <img align="left" alt="Ameya K. | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+</a>
+
+
 <a href="https://github.com/AmeyaKN/" target="blank"><img align="center" src="https://img.shields.io/github/followers/AmeyaKN?label=Follow&style=social&link=https://github.com/AmeyaKN/" alt="AmeyaKN" height="20" width="90" /></a>
 
 
